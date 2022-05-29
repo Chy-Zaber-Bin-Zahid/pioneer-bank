@@ -1,0 +1,12 @@
+body {
+  padding: 100px;
+  background-color: rgb(238, 226, 226);
+}
+
+.submit-area {
+  background-color: rgb(232, 243, 243);
+  margin-top: 50px;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+}
